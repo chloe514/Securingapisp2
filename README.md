@@ -13,7 +13,7 @@ Getting Started
 1. Clone the Repository
    bash
    
-   git clone <https://github.com/chloe514/Securingapisp2>
+   git clone <[https://github.com/chloe514/Securingapisp2](https://github.com/chloe514/Securingapisp2.git)>
    cd <C:\Users\chloe\Desktop\Securingapis2>
 2. Configure SSL
    Ensure the SSL keystore is properly configured in src/main/resources and that the password and alias match those set in application.properties.
